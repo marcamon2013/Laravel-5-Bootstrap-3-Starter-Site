@@ -14,7 +14,7 @@ Demo is here http://l5start.mrakodol.info/
 
 <a name="feature1"></a>
 ## Starter Site Features:
-* Laravel 5.0
+* Laravel 5.1
 * Twitter Bootstrap 3.2.0
 * Back-end
 	* Automatic install and settup website.
@@ -37,9 +37,9 @@ Demo is here http://l5start.mrakodol.info/
 <a name="feature2"></a>
 ##Requirements
 
-	PHP >= 5.5.0
+	PHP >= 5.5.9
 	MCrypt PHP Extension
-	Enable creating triger in database
+	Enable creating trigger in database
 	SQL server(for example MySQL)
 
 -----
@@ -56,7 +56,7 @@ Demo is here http://l5start.mrakodol.info/
 <a name="step1"></a>
 ### Step 1: Get the code - Download the repository
 
-    https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site/archive/master.zip
+    https://github.com/marcamon2013/Laravel-5-Bootstrap-3-Starter-Site/archive/master.zip
 
 Extract it in www(or htdocs if you using XAMPP) folder and put it for example in laravel5startersite folder.
 
@@ -157,7 +157,7 @@ This is free software distributed under the terms of the MIT license
 <a name="feature7"></a>
 ## Additional information
 
-Inspired by and based on [andrew13's Laravel-4-Bootstrap-Starter-Site](https://github.com/andrew13/Laravel-4-Bootstrap-Starter-Site)
+Inspired by and based on [andrew13's Laravel-5-Bootstrap-3-Starter-Site](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site)
 
 ###Disable gulp-notify
 If you are running on a system that handles notifications poorly or you simply do not wish to use gulp-notify but your project does? You can disable gulp-notify by using enviroment variable DISABLE_NOTIFIER.
